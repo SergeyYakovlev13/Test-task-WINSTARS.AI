@@ -23,7 +23,8 @@
   1. Download necessary train_ship_segmentations_v2.csv file from https://drive.google.com/drive/folders/1MWIJo6DEsK8m5IU9mZGs47BTwN6nCCz9?hl=ru.
   2. Open file 'train.py'.
   3. Change all the paths on those, which corresponds to your situation.
-  4. Run the file.
+  4. If you don't have enough computational resources, you can take significantly less images into dataset, and try learning for a less epochs, by changing corresponding variables.
+  5. Run the file.
 ### To test model
   1. Download pretrained model model.h5 from https://drive.google.com/drive/folders/1PEwqc017MtS6P-mibECO5ChlUSg7zQjt?hl=ru.
   2. Open file 'test.py'.
