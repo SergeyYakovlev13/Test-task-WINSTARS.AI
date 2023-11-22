@@ -1,6 +1,6 @@
 # Test-task-WINSTARS.AI 
 
-'data_analysys.jpynb' - jupyter notebook with exploratory data analysis of the dataset;
+'data_analysys.ipynb' - jupyter notebook with exploratory data analysis of the dataset;
 
 'model.py' - file with model architecture;
 
