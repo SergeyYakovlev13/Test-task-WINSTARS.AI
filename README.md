@@ -1,4 +1,7 @@
 # Test-task-WINSTARS.AI 
+## Description
+Main goal of this project - to build semantic segmentation model, trained on a dataset from Kaggle Airbus Ship Detection Challenge competition. 
+As a result, was implemented U-Net model, which recieved on a validation set Dice of 85,64% and IoU of 74,96%, which are quite satisfiable results. 
 
 'data_analysys.ipynb' - jupyter notebook with exploratory data analysis of the dataset;
 
