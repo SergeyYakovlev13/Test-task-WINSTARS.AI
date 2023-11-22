@@ -8,7 +8,7 @@ This basic purpose of this project is to make a model that will make a segmentat
 
 'metrics.py' - file with functions for necessary metrics (Dice and IoU);
 
-'varibles.py' - file with defined variables, which will be used in several other packages; 
+'variables.py' - file with defined variables, which will be used in several other packages; 
 
 'train.py' - file for training model;
 
