@@ -1,6 +1,4 @@
-# Test-task-WINSTARS.AI
-## Description
-This basic purpose of this project is to make a model that will make a segmentation of an input image. To accomplish this U-Net model was trained on a kaggle competitions Airbus Ship Detection Challenge Dataset. 
+# Test-task-WINSTARS.AI 
 
 'data_analysys.jpynb' - jupyter notebook with exploratory data analysis of the dataset;
 
@@ -20,10 +18,10 @@ This basic purpose of this project is to make a model that will make a segmentat
 ### To train model
   1. Download necessary train_ship_segmentations_v2.csv file from https://drive.google.com/drive/folders/1MWIJo6DEsK8m5IU9mZGs47BTwN6nCCz9?hl=ru.
   2. Open file 'train.py'.
-  3. In the fifth row replace path to your dataset path (format of paths have to be path/to/images/* and path/to/masks/*).
+  3. Change all the paths on those, which corresponds to your situation.
   4. Run the file.
 ### To test model
   1. Download pretrained model model.h5 from https://drive.google.com/drive/folders/1PEwqc017MtS6P-mibECO5ChlUSg7zQjt?hl=ru.
   2. Open file 'test.py'.
-  3. Replase paths in rows 9, 14, 15, 18.
+  3. Change all the paths on those, which corresponds to your situation.
   4. Run code.
