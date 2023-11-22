@@ -12,7 +12,7 @@ model=tf.keras.models.load_model(model_path,custom_objects={"Dice":Dice,"IoU":Io
 
 #numb1 is number of images, which will be saved to array, and from which will be chosen images for inference.
 numb1=1000
-#numb2 is number of images, chosen for images.
+#numb2 is number of images, chosen for inference.
 numb2=6
 
 #Creating array for images, and saving them into array.
