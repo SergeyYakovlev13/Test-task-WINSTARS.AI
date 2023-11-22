@@ -18,9 +18,10 @@ This basic purpose of this project is to make a model that will make a segmentat
   1. Save this repo.
   2. Install all requirements.
 ### To train model
-  1. Open file 'train.py'.
-  2. In the fifth row replace path to your dataset path (format of paths have to be path/to/images/* and path/to/masks/*).
-  3. Run the file.
+  1. Download necessary train_ship_segmentations_v2.csv file from https://drive.google.com/drive/folders/1MWIJo6DEsK8m5IU9mZGs47BTwN6nCCz9?hl=ru.
+  2. Open file 'train.py'.
+  3. In the fifth row replace path to your dataset path (format of paths have to be path/to/images/* and path/to/masks/*).
+  4. Run the file.
 ### To test model
   1. Download pretrained model model.h5 from https://drive.google.com/drive/folders/1PEwqc017MtS6P-mibECO5ChlUSg7zQjt?hl=ru.
   2. Open file 'test.py'.
