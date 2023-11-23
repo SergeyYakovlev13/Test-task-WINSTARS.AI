@@ -14,7 +14,9 @@
 
 'train.py' - file for training model;
 
-'test.py' - file for testing pretrained model.
+'test.py' - file for testing pretrained model;
+
+'alternative.ipynb' - jupyter notebook, which was created from other .py files in this project, and runned on Kaggle platform (as lon as it provides free GPU-usage quota, for faster and more qualified learning), which might be for some people more comfortable way of analysing this code.  
 
 ## To run task
   1. Save this repo.
