@@ -19,7 +19,7 @@
 'alternative.ipynb' - jupyter notebook, which was created from other .py files in this project, and runned on Kaggle platform (as lon as it provides free GPU-usage quota, for faster and more qualified learning), which might be for some people more comfortable way of analysing this code.  
 
 ## To run task
-  1. Save this repo.
+  1. Save this repository.
   2. Install all requirements.
 ### To train model
   1. Download necessary train_ship_segmentations_v2.csv file from https://drive.google.com/drive/folders/1MWIJo6DEsK8m5IU9mZGs47BTwN6nCCz9?hl=ru.
